@@ -25,4 +25,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=akbar-kaosain&show_icons=true&locale=en" alt="akbar-kaosain" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akbar-kaosain&" alt="akbar-kaosain" /></p>
+<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=akbar-kaosain&" alt="akbar-kaosain" /></p>
