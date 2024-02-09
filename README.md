@@ -27,4 +27,4 @@
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akbar-kaosain&" alt="akbar-kaosain" /></p>
 
-![Leetcode Stats](https://leetcode.com/Kaosain/)
+![Leetcode Stats](https://leetcode.com/Kaosain/leetcode?site=cn)
