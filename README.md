@@ -26,3 +26,5 @@
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=akbar-kaosain&show_icons=true&locale=en" alt="akbar-kaosain" /></p>
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akbar-kaosain&" alt="akbar-kaosain" /></p>
+
+![Leetcode Stats](https://leetcode.com/Kaosain/)
