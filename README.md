@@ -27,4 +27,5 @@
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akbar-kaosain&" alt="akbar-kaosain" /></p>
 
-<p align="center"><img align="center" src= "https://leetcard.jacoblin.cool/Kaosain?theme=wtf&font=Philosopher&ext=activity"  alt="akbar-kaosain" /></p>
+<p align="center"><img align="center" src= "https://leetcard.jacoblin.cool/Kaosain?theme=wtf&font=Philosopher"  alt="akbar-kaosain" /></p>
+
